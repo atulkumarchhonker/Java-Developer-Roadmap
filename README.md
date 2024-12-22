@@ -1,4 +1,4 @@
-# Java Super Guide
+# Java Guide
 
 ## Core Java
 | Topic                       | Article                                                                                      | Video Tutorial                                              |
